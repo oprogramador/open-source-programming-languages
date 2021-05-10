@@ -12,7 +12,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "json-to-markdown": "^1.0.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "superagent": "^5.3.1"
   },
   "devDependencies": {
